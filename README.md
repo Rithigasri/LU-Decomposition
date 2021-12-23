@@ -1,5 +1,5 @@
 # EXPERIMENT 05
-# (A)LU Decomposition to find L and U Matrix:
+# (A)LU Decomposition to find L and U Matrix.
 
 ## AIM:
 To write a program to find L and U Matrix using LU Decomposition .
@@ -38,10 +38,10 @@ print(U)
 ## Result:
 Thus the program to find L and U matrix using LU Decomposition is written and verified using python programming.
 
-# (B)LU Decomposition to solve a matrix:
+# (B)LU Decomposition to solve a matrix.
 
 ## AIM:
-To write a program solve a Matrix using LU Decomposition.
+To write a program to solve a Matrix using LU Decomposition.
 
 ## Equipments Required:
 1. Hardware – PCs
